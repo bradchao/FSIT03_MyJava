@@ -12,7 +12,7 @@ public class BradMail {
 
 	public static void main(String[] args) {
 		final String username = "bradcafe@gmail.com";
-		final String password = "bk740893";
+		final String password = "123456";
 
 		Properties props = new Properties();
 		props.put("mail.smtp.auth", "true");
